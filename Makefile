@@ -1,3 +1,5 @@
+shell = /bin/bash
+
 # Directories
 dirs:
 	mkdir data
