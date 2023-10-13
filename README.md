@@ -7,6 +7,9 @@ This repo contains
 -   Tools to:
 
     -   Filter and trim down the dataset
+    -   Analyze the dataset
+
+-   A report answering the 2 refined questions within
 
 # Setup / Installation
 
@@ -29,5 +32,3 @@ Add headers to csv file (one file already exists in /data)
 ```shell
 cat headers.csv > <newfile> && cat output.csv >> <newfile>
 ```
-
-# Running

@@ -6,247 +6,247 @@ Unique Key,Created Date,Closed Date,Agency,Agency Name,Complaint Type,Descriptor
 ----------------
 Most common value for each column
 ----------------
-Col 'Unique Key' - 1887577 unique value(s):
+1 Col 'Unique Key' - 1887577 unique value(s):
 --------most common(s)--------
 	Value: '46920293' - Count: '1'
 	Value: '46893148' - Count: '1'
 	Value: '46930483' - Count: '1'
 ------------------------------
-Col 'Created Date' - 1609426 unique value(s):
+2 Col 'Created Date' - 1609426 unique value(s):
 --------most common(s)--------
 	Value: '03/17/2020 07:00:00 AM' - Count: '46'
 	Value: '03/02/2020 06:00:00 AM' - Count: '41'
 	Value: '01/05/2020 07:00:00 AM' - Count: '31'
 ------------------------------
-Col 'Closed Date' - 1276627 unique value(s):
+3 Col 'Closed Date' - 1276627 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '139983'
 	Value: '08/04/2020 12:00:00 PM' - Count: '1088'
 	Value: '08/15/2020 12:00:00 PM' - Count: '811'
 ------------------------------
-Col 'Agency' - 17 unique value(s):
+4 Col 'Agency' - 17 unique value(s):
 --------most common(s)--------
 	Value: 'NYPD' - Count: '975997'
 	Value: 'HPD' - Count: '223814'
 	Value: 'DOT' - Count: '162474'
 ------------------------------
-Col 'Agency Name' - 59 unique value(s):
+5 Col 'Agency Name' - 59 unique value(s):
 --------most common(s)--------
 	Value: 'New York City Police Department' - Count: '975997'
 	Value: 'Department of Housing Preservation and Development' - Count: '223814'
 	Value: 'Department of Transportation' - Count: '162474'
 ------------------------------
-Col 'Complaint Type' - 177 unique value(s):
+6 Col 'Complaint Type' - 177 unique value(s):
 --------most common(s)--------
 	Value: 'Noise - Residential' - Count: '306912'
 	Value: 'Noise - Street/Sidewalk' - Count: '170472'
 	Value: 'Illegal Parking' - Count: '133324'
 ------------------------------
-Col 'Descriptor' - 887 unique value(s):
+7 Col 'Descriptor' - 887 unique value(s):
 --------most common(s)--------
 	Value: 'Loud Music/Party' - Count: '402077'
 	Value: 'Banging/Pounding' - Count: '66964'
 	Value: 'N/A' - Count: '66191'
 ------------------------------
-Col 'Location Type' - 137 unique value(s):
+8 Col 'Location Type' - 137 unique value(s):
 --------most common(s)--------
 	Value: 'Street/Sidewalk' - Count: '485494'
 	Value: '' - Count: '390620'
 	Value: 'Residential Building/House' - Count: '323793'
 ------------------------------
-Col 'Incident Zip' - 237 unique value(s):
+9 Col 'Incident Zip' - 237 unique value(s):
 --------most common(s)--------
 	Value: '10466' - Count: '71243'
 	Value: '' - Count: '48050'
 	Value: '10457' - Count: '31270'
 ------------------------------
-Col 'Incident Address' - 444700 unique value(s):
+10 Col 'Incident Address' - 444700 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '98220'
 	Value: '655 EAST 230 STREET' - Count: '14320'
 	Value: '655 EAST  230 STREET' - Count: '13792'
 ------------------------------
-Col 'Street Name' - 12643 unique value(s):
+11 Col 'Street Name' - 12643 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '98313'
 	Value: 'BROADWAY' - Count: '23103'
 	Value: 'EAST 231 STREET' - Count: '19890'
 ------------------------------
-Col 'Cross Street 1' - 16036 unique value(s):
+12 Col 'Cross Street 1' - 16036 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '391440'
 	Value: 'CARPENTER AVENUE' - Count: '57819'
 	Value: 'BEND' - Count: '32670'
 ------------------------------
-Col 'Cross Street 2' - 15937 unique value(s):
+13 Col 'Cross Street 2' - 15937 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '392670'
 	Value: 'WHITE PLAINS ROAD' - Count: '30169'
 	Value: 'BEND' - Count: '30135'
 ------------------------------
-Col 'Intersection Street 1' - 12075 unique value(s):
+14 Col 'Intersection Street 1' - 12075 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '493942'
 	Value: 'CARPENTER AVENUE' - Count: '57799'
 	Value: 'BEND' - Count: '28480'
 ------------------------------
-Col 'Intersection Street 2' - 12649 unique value(s):
+15 Col 'Intersection Street 2' - 12649 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '493978'
 	Value: 'WHITE PLAINS ROAD' - Count: '30182'
 	Value: 'LOWERRE PLACE' - Count: '28330'
 ------------------------------
-Col 'Address Type' - 4 unique value(s):
+16 Col 'Address Type' - 4 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1283133'
 	Value: 'ADDRESS' - Count: '498947'
 	Value: 'INTERSECTION' - Count: '91880'
 ------------------------------
-Col 'City' - 96 unique value(s):
+17 Col 'City' - 96 unique value(s):
 --------most common(s)--------
 	Value: 'BROOKLYN' - Count: '500027'
 	Value: 'BRONX' - Count: '406641'
 	Value: 'NEW YORK' - Count: '341986'
 ------------------------------
-Col 'Landmark' - 9341 unique value(s):
+18 Col 'Landmark' - 9341 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '681373'
 	Value: 'EAST 231 STREET' - Count: '19780'
 	Value: 'BROADWAY' - Count: '15501'
 ------------------------------
-Col 'Facility Type' - 3 unique value(s):
+19 Col 'Facility Type' - 3 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1728227'
 	Value: 'N/A' - Count: '115341'
 	Value: 'DSNY Garage' - Count: '44009'
 ------------------------------
-Col 'Status' - 7 unique value(s):
+20 Col 'Status' - 7 unique value(s):
 --------most common(s)--------
 	Value: 'Closed' - Count: '1721736'
 	Value: 'In Progress' - Count: '113553'
 	Value: 'Open' - Count: '27441'
 ------------------------------
-Col 'Due Date' - 1558 unique value(s):
+21 Col 'Due Date' - 1558 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1883875'
 	Value: '02/29/2020 03:53:21 PM' - Count: '832'
 	Value: '04/16/2020 04:00:00 AM' - Count: '451'
 ------------------------------
-Col 'Resolution Description' - 680 unique value(s):
+22 Col 'Resolution Description' - 680 unique value(s):
 --------most common(s)--------
 	Value: 'The Police Department responded to the complaint and took action to fix the condition.' - Count: '306063'
 	Value: 'The Police Department responded to the complaint and with the information available observed no evidence of the violation at that time.' - Count: '304242'
 	Value: 'The Police Department responded to the complaint and determined that police action was not necessary.' - Count: '149400'
 ------------------------------
-Col 'Resolution Action Updated Date' - 1220762 unique value(s):
+23 Col 'Resolution Action Updated Date' - 1220762 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '100676'
 	Value: '09/28/2020 12:00:00 AM' - Count: '1340'
 	Value: '09/24/2020 12:00:00 AM' - Count: '1310'
 ------------------------------
-Col 'Community Board' - 77 unique value(s):
+24 Col 'Community Board' - 77 unique value(s):
 --------most common(s)--------
 	Value: '12 BRONX' - Count: '91859'
 	Value: '12 MANHATTAN' - Count: '80075'
 	Value: '04 BRONX' - Count: '53572'
 ------------------------------
-Col 'BBL' - 320549 unique value(s):
+25 Col 'BBL' - 320549 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '271352'
 	Value: '2048330028' - Count: '28112'
 	Value: '2048330080' - Count: '15709'
 ------------------------------
-Col 'Borough' - 6 unique value(s):
+26 Col 'Borough' - 6 unique value(s):
 --------most common(s)--------
 	Value: 'BROOKLYN' - Count: '532648'
 	Value: 'QUEENS' - Count: '445185'
 	Value: 'BRONX' - Count: '434538'
 ------------------------------
-Col 'X Coordinate (State Plane)' - 108288 unique value(s):
+27 Col 'X Coordinate (State Plane)' - 108288 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '58939'
 	Value: '1022911' - Count: '28121'
 	Value: '1023174' - Count: '15738'
 ------------------------------
-Col 'Y Coordinate (State Plane)' - 121183 unique value(s):
+28 Col 'Y Coordinate (State Plane)' - 121183 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '58939'
 	Value: '264242' - Count: '28113'
 	Value: '264429' - Count: '15709'
 ------------------------------
-Col 'Open Data Channel Type' - 5 unique value(s):
+29 Col 'Open Data Channel Type' - 5 unique value(s):
 --------most common(s)--------
 	Value: 'ONLINE' - Count: '648444'
 	Value: 'PHONE' - Count: '605684'
 	Value: 'MOBILE' - Count: '403501'
 ------------------------------
-Col 'Park Facility Name' - 1256 unique value(s):
+30 Col 'Park Facility Name' - 1256 unique value(s):
 --------most common(s)--------
 	Value: 'Unspecified' - Count: '1869302'
 	Value: 'N/A' - Count: '1358'
 	Value: 'Central Park' - Count: '927'
 ------------------------------
-Col 'Park Borough' - 6 unique value(s):
+31 Col 'Park Borough' - 6 unique value(s):
 --------most common(s)--------
 	Value: 'BROOKLYN' - Count: '532648'
 	Value: 'QUEENS' - Count: '445185'
 	Value: 'BRONX' - Count: '434538'
 ------------------------------
-Col 'Vehicle Type' - 5 unique value(s):
+32 Col 'Vehicle Type' - 5 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1887122'
 	Value: 'Car Service' - Count: '424'
 	Value: 'Ambulette / Paratransit' - Count: '18'
 ------------------------------
-Col 'Taxi Company Borough' - 6 unique value(s):
+33 Col 'Taxi Company Borough' - 6 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1886647'
 	Value: 'Brooklyn' - Count: '295'
 	Value: 'Manhattan' - Count: '213'
 ------------------------------
-Col 'Taxi Pick Up Location' - 8089 unique value(s):
+34 Col 'Taxi Pick Up Location' - 8089 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1875765'
 	Value: 'JFK AIRPORT, QUEENS (JAMAICA) ,NY, 11430' - Count: '694'
 	Value: 'LA GUARDIA AIRPORT, QUEENS (EAST ELMHURST) ,NY, 11369' - Count: '221'
 ------------------------------
-Col 'Bridge Highway Name' - 24 unique value(s):
+35 Col 'Bridge Highway Name' - 24 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1887390'
 	Value: 'Queensboro/59th St Br' - Count: '36'
 	Value: 'Brooklyn Br' - Count: '33'
 ------------------------------
-Col 'Bridge Highway Direction' - 45 unique value(s):
+36 Col 'Bridge Highway Direction' - 45 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1884985'
 	Value: 'North/Bronx Bound' - Count: '255'
 	Value: 'East/Long Island Bound' - Count: '246'
 ------------------------------
-Col 'Road Ramp' - 4 unique value(s):
+37 Col 'Road Ramp' - 4 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1884990'
 	Value: 'Roadway' - Count: '1685'
 	Value: 'Ramp' - Count: '892'
 ------------------------------
-Col 'Bridge Highway Segment' - 793 unique value(s):
+38 Col 'Bridge Highway Segment' - 793 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '1884990'
 	Value: 'Ramp' - Count: '75'
 	Value: 'Begin Korean War Vets Pkwy/Arthur Kill Rd - Arden Ave/Albee Ave' - Count: '56'
 ------------------------------
-Col 'Latitude' - 526396 unique value(s):
+39 Col 'Latitude' - 526396 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '47407'
 	Value: '40.8918724' - Count: '14320'
 	Value: '40.89187241649303' - Count: '13792'
 ------------------------------
-Col 'Longitude' - 526555 unique value(s):
+40 Col 'Longitude' - 526555 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '47407'
 	Value: '-73.8601685' - Count: '14320'
 	Value: '-73.86016845296459' - Count: '13792'
 ------------------------------
-Col 'Location' - 554359 unique value(s):
+41 Col 'Location' - 554359 unique value(s):
 --------most common(s)--------
 	Value: '' - Count: '47407'
 	Value: '(40.8918724, -73.8601685)' - Count: '14320'

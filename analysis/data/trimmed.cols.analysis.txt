@@ -1,0 +1,44 @@
+File name: data/interim/trimmed.cols.csv
+Number of entries: 1887577
+Headers of CSV
+--------------
+Unique Key,Created Date,Complaint Type,Descriptor,Location Type,Facility Type
+----------------
+Most common value for each column
+----------------
+Col 'Unique Key' - 1887577 unique value(s):
+--------most common(s)--------
+	Value: '46920293' - Count: '1'
+	Value: '46893148' - Count: '1'
+	Value: '46930483' - Count: '1'
+------------------------------
+Col 'Created Date' - 1609426 unique value(s):
+--------most common(s)--------
+	Value: '03/17/2020 07:00:00 AM' - Count: '46'
+	Value: '03/02/2020 06:00:00 AM' - Count: '41'
+	Value: '01/05/2020 07:00:00 AM' - Count: '31'
+------------------------------
+Col 'Complaint Type' - 177 unique value(s):
+--------most common(s)--------
+	Value: 'Noise - Residential' - Count: '306912'
+	Value: 'Noise - Street/Sidewalk' - Count: '170472'
+	Value: 'Illegal Parking' - Count: '133324'
+------------------------------
+Col 'Descriptor' - 887 unique value(s):
+--------most common(s)--------
+	Value: 'Loud Music/Party' - Count: '402077'
+	Value: 'Banging/Pounding' - Count: '66964'
+	Value: 'N/A' - Count: '66191'
+------------------------------
+Col 'Location Type' - 137 unique value(s):
+--------most common(s)--------
+	Value: 'Street/Sidewalk' - Count: '485494'
+	Value: '' - Count: '390620'
+	Value: 'Residential Building/House' - Count: '323793'
+------------------------------
+Col 'Facility Type' - 3 unique value(s):
+--------most common(s)--------
+	Value: '' - Count: '1728227'
+	Value: 'N/A' - Count: '115341'
+	Value: 'DSNY Garage' - Count: '44009'
+------------------------------

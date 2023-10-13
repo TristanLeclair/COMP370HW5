@@ -1,0 +1,178 @@
+APPLIANCE
+Abandoned Vehicle
+Air Quality
+Animal Facility - No Permit
+Animal in a Park
+Animal-Abuse
+Asbestos
+BEST/Site Safety
+Beach/Pool/Sauna Complaint
+Bike Rack Condition
+Bike/Roller/Skate Chronic
+Blocked Driveway
+Boilers
+Borough Office
+Bottled Water
+Bridge Condition
+Broken Parking Meter
+Building Condition
+Building Marshals office
+Building/Use
+Bus Stop Shelter Complaint
+Bus Stop Shelter Placement
+COVID-19 Non-essential Construction
+Calorie Labeling
+Collection Truck Noise
+Complaint Type
+Construction Lead Dust
+Consumer Complaint
+Cooling Tower
+Cranes and Derricks
+Curb Condition
+DEP Street Condition
+DOOR/WINDOW
+DSNY Spillage
+Damaged Tree
+Day Care
+Dead/Dying Tree
+Dept of Investigations
+Derelict Bicycle
+Derelict Vehicles
+Dirty Conditions
+Disorderly Youth
+Dispatched Taxi Complaint
+Drinking
+Drinking Water
+Drug Activity
+ELECTRIC
+ELEVATOR
+Electrical
+Elevator
+Emergency Response Team (ERT)
+Employee Behavior
+Executive Inspections
+FHV Licensee Complaint
+FLOORING/STAIRS
+Facades
+Ferry Complaint
+Ferry Inquiry
+Ferry Permit
+Food Establishment
+Food Poisoning
+For Hire Vehicle Complaint
+For Hire Vehicle Report
+Found Property
+GENERAL
+General Construction/Plumbing
+Graffiti
+Green Taxi Complaint
+Green Taxi Report
+HEAT/HOT WATER
+Harboring Bees/Wasps
+Hazardous Materials
+Highway Condition
+Highway Sign - Damaged
+Highway Sign - Dangling
+Highway Sign - Missing
+Home Delivered Meal - Missed Delivery
+Home Delivered Meal Complaint
+Homeless Encampment
+Homeless Person Assistance
+Homeless Street Condition
+Illegal Animal Kept as Pet
+Illegal Animal Sold
+Illegal Fireworks
+Illegal Parking
+Illegal Tree Damage
+Indoor Air Quality
+Indoor Sewage
+Industrial Waste
+Internal Code
+Investigations and Discipline (IAD)
+Lead
+Lifeguard
+LinkNYC
+Litter Basket / Request
+Lost Property
+Maintenance or Facility
+Miscellaneous Categories
+Missed Collection (All Materials)
+Mobile Food Vendor
+Mold
+Mosquitoes
+Municipal Parking Facility
+New Tree Request
+Noise
+Noise - Commercial
+Noise - Helicopter
+Noise - House of Worship
+Noise - Park
+Noise - Residential
+Noise - Street/Sidewalk
+Noise - Vehicle
+Non-Emergency Police Matter
+Non-Residential Heat
+NonCompliance with Phased Reopening
+OUTSIDE BUILDING
+Other Enforcement
+Outdoor Dining
+Overflowing Litter Baskets
+Overgrown Tree/Branches
+PAINT/PLASTER
+PLUMBING
+Panhandling
+Peeling Paint
+Pet Shop
+Plant
+Plumbing
+Poison Ivy
+Posting Advertisement
+Public Payphone Complaint
+Public Toilet
+Radioactive Material
+Recycling Enforcement
+Rodent
+Root/Sewer/Sidewalk Condition
+SAFETY
+Sanitation Condition
+Scaffold Safety
+School Maintenance
+Sewer
+Sidewalk Condition
+Smoking
+Snow
+Snow Removal
+Special Natural Area District (SNAD)
+Special Projects Inspection Team (SPIT)
+Squeegee
+Standing Water
+Street Condition
+Street Light Condition
+Street Sign - Damaged
+Street Sign - Dangling
+Street Sign - Missing
+Sweeping/Inadequate
+Sweeping/Missed
+Tanning
+Tattooing
+Taxi Complaint
+Taxi Compliment
+Taxi Report
+Traffic
+Traffic Signal Condition
+Tunnel Condition
+UNSANITARY CONDITION
+Unleashed Dog
+Unsanitary Animal Facility
+Unsanitary Animal Pvt Property
+Unsanitary Pigeon Condition
+Urinating in Public
+Vacant Lot
+Vending
+Violation of Park Rules
+WATER LEAK
+Water Conservation
+Water Quality
+Water System
+Window Guard
+X-Ray Machine/Equipment

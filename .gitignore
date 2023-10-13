@@ -2,6 +2,9 @@ data/*
 
 venv/
 
+# report
+*.png
+
 ### Python ###
 __pycache__/
 *.py[cod]
